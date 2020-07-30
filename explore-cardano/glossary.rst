@@ -140,7 +140,10 @@ Cardano Glossary
       a term used to indicate that a particular stake pool has more stake delegated to it than is ideal for the network. Saturation is displayed as a percentage. Once a stake pool reaches 100% saturation, it will offer diminishing rewards.The saturation mechanism was designed to prevent centralization by encouraging delegators to delegate to different stake pools, and operators to set up alternative pools so that they can continue earning maximum rewards. Saturation, therefore, exists to preserve the interests of both ada holders delegating their stake and stake pool operators.
 
     Shelley
-      second phase of Cardano development in which network decentralization will be delivered.
+      second phase of Cardano development in which network decentralization is delivered. Shelley is now live!
+    
+    sidechain
+        a separate blockchain that is attached to a parent blockchain and allows you to transfer assets between chains that exist in parallel, even though they may operate different rules and languages, and utilize the network differently.
 
     slot
       a fixed period of time within an epoch. Each epoch of time is divided into numbered slots. Slots that contain transactions are called blocks.
